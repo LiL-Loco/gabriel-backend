@@ -1,23 +1,14 @@
 {
-  "name": "gabriel-backend",
-  "version": "1.0.0",
-  "description": "Backend-Service für Gabriel Feine Uhren & Juwelen – Google Reviews Sync, Instagram Feed Proxy",
-  "main": "app.js",
+  "name": "gabriel-reviews-sync",
+  "version": "2.0.0",
+  "description": "Wöchentlicher Google Reviews Sync via GitHub Actions → public/reviews.json",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "sync": "node scripts/syncOnce.js"
   },
   "engines": {
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "node-cron": "^3.0.3",
     "node-fetch": "^2.7.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.4"
   }
 }
