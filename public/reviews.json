@@ -1,8 +1,88 @@
 {
-  "reviews": [],
   "place": "Gabriel Feine Uhren & Juwelen",
-  "rating": null,
-  "note": "Wird jeden Montag automatisch durch GitHub Actions aktualisiert",
-  "synced_at": null,
-  "total": null
+  "rating": 4.9,
+  "total": 97,
+  "reviews": [
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25oR09GSjRRbEppVDNCQmRXVnJhSEU0UTFSVGFVRRAB",
+      "author": "Ivana Rastegorac",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJamU9FM_C8FfABtAUAP4kGYcH7KvF_FLMS4Rn7f2WStMRYXg=s120-c-rp-mo-ba2-br100",
+      "guide": true,
+      "rating": 5,
+      "date": "vor 1 Tag",
+      "iso_date": "2026-04-09T09:32:16Z",
+      "text": "Ich habe meine Uhr dort vor Jahren gekauft, dennoch kann ich bis heute den Service von Gabriel in Anspruch nehmen. Egal mit welchem Anliegen ich komme,  ich werde immer herzlich empfangen und es wird sich gut um mich und meine Uhr gekümmert. Ich bin wirklich begeistert von der freundlichkeit und kompetenz der Mitarbeiter. Ich kann „Gabriel“ uneingeschränkt empfehlen!"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pGclgyUjNURXBJUzFGRVRGOWpVMGRYVWtaRmVXYxAB",
+      "author": "Manuela Witthaut",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLOBL9YZtZQoXuIRjKrEeOgR_UotZ_BHCo7WpQ_pidfrfqLwg=s120-c-rp-mo-br100",
+      "guide": true,
+      "rating": 5,
+      "date": "vor 3 Wochen",
+      "iso_date": "2026-03-17T17:33:37Z",
+      "text": "Freundliche und nette Atmosphäre, kompetente Beratung mit fairen Preisvorstellungen, sehr zu empfehlen"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xoelNqVlVWblJzTFVORFN6bFROekp6ZGpZdFIyYxAB",
+      "author": "Niklas H",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJmI2K2f0F25V5vBYcY4pWnjmQ3_fn0AFrhlIBGrasV2Qaw6A=s120-c-rp-mo-br100",
+      "guide": true,
+      "rating": 5,
+      "date": "vor einem Monat",
+      "iso_date": "2026-03-05T17:41:31Z",
+      "text": "Super professioneller und freundlicher Umgang. Die Uhr war genau so wie beschrieben und den Preis habe ich als sehr fair wahrgenommen. Vielen Dank und bis zum nächsten Mal!"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSE5WRjRUMWRNVVRodVUyOVZZMjFOU2s1ME5uYxAB",
+      "author": "A D",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIXanf47ciXGK56-wjiYOY2-Cx5JB5z2vt_ALg5GBEpC8lqhQ=s120-c-rp-mo-ba3-br100",
+      "guide": true,
+      "rating": 5,
+      "date": "vor einem Monat",
+      "iso_date": "2026-02-28T15:47:00Z",
+      "text": "Der Uhrenankauf bei der Firma Gabriel lief unaufgeregt, geraderaus und fair. Das Geld, das für Montag angekündigt war (wegen Überweisung am Wochende), war Samstag bereits da.\n\nBeim Ankauf gab es keine langen Diskussionen oder Spielchen, sondern ehrliche und gerade Kommunikation.\n\nIch bin sehr zufrieden und komme gern wieder!"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25wU1VuTnVjWGRuWjBSRk1WcGhhbnBUVVhoSVExRRAB",
+      "author": "Thomas Lang",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLcSCC4SCQOt70FNazxLs78Dh0DHScDeSA4JQmqB7BsqHTdfw=s120-c-rp-mo-br100",
+      "guide": true,
+      "rating": 5,
+      "date": "vor einem Monat",
+      "iso_date": "2026-02-27T18:52:29Z",
+      "text": "Sehr angenehmes Gespräch und toller Service beim Uhrenkauf. Selbst ein zusätzliches Uhrenarmbandglied wurde sofort montiert und nicht berechnet. Jederzeit gerne wieder 👍"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT20xdFRqTTJVbkJyYzB0UVJqVnBUa2hyUlV4dGMwRRAB",
+      "author": "Nick",
+      "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjVZXN56C2c6rpYK248es1NSdLNH1TeKF5Dpt4hrfElsiS2Z_Q4Y=s120-c-rp-mo-br100",
+      "guide": true,
+      "rating": 5,
+      "date": "vor 2 Monaten",
+      "iso_date": "2026-02-08T01:08:53Z",
+      "text": "Die Besonderheit von Gabriel lässt sich kaum in Worte fassen. Ein Geschäft von höchster Qualität, geprägt von wunderbaren Menschen.\n\nVom ersten Augenblick an vereinen sich herzlicher Empfang, erstklassige Beratung, exzellenter Service und eine erlesene Uhren- und Schmuckauswahl auf höchstem Niveau.\nEine Qualität, die Maßstäbe setzt.\n\nWenn Generationen bei einem Geschäft kaufen, welches seit Generationen existiert, braucht man nichts mehr zu sagen, außer: Vielen Dank!"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMGNuSlRURjlWZVdORWF6RjVPRzU1U21OT1lsRRAB",
+      "author": "Michael Plabst",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJN_suhJsGz0JUoWZM_zIgu253PsfDvPy2ffchFFyFcKn8TqA=s120-c-rp-mo-br100",
+      "guide": true,
+      "rating": 5,
+      "date": "vor 2 Monaten",
+      "iso_date": "2026-01-25T12:10:32Z",
+      "text": "Habe vor und nach dem Kauf nur beste Erfahrungen sammeln können. Uhr wie beschrieben. Sehr netter Kontakt mit dem Verkäufer"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMmJFWlZabHA0ZWtkeGVFMXZSbE15VkdsR1dtYxAB",
+      "author": "J. H.",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJk2r0qBATGbM722VNjvcCTVpXMaInMRBwZTfC2fGruhT9-DQ=s120-c-rp-mo-br100",
+      "guide": true,
+      "rating": 5,
+      "date": "vor 2 Monaten",
+      "iso_date": "2026-01-22T15:03:09Z",
+      "text": "Sehr freundliches Team und seriöse Beratung. Sehr zu empfehlen und gerne wieder!"
+    }
+  ],
+  "synced_at": "2026-04-11T02:34:44.227Z"
 }
