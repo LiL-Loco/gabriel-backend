@@ -34,12 +34,24 @@ jobs:
           GABRIEL_DATA_ID: ${{ secrets.GABRIEL_DATA_ID }}
         run: node scripts/syncOnce.js
 
-      - name: reviews.json committen & pushen
+      - name: reviews.json via GitHub API speichern
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin master
-          git rebase origin/master
-          git add public/reviews.json
-          git diff --cached --quiet && echo "Keine Änderungen" || \
-            git commit -m "chore: Google Reviews aktualisiert [skip ci]" && git push
+          CONTENT=$(base64 -w 0 public/reviews.json)
+          SHA=$(curl -s \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/LiL-Loco/gabriel-backend/contents/public/reviews.json" \
+            | jq -r '.sha // empty')
+
+          PAYLOAD=$(jq -n \
+            --arg msg  "chore: Google Reviews aktualisiert [skip ci]" \
+            --arg cont "$CONTENT" \
+            --arg sha  "$SHA" \
+            'if $sha != "" then {message:$msg, content:$cont, sha:$sha} else {message:$msg, content:$cont} end')
+
+          curl -s -X PUT \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Content-Type: application/json" \
+            "https://api.github.com/repos/LiL-Loco/gabriel-backend/contents/public/reviews.json" \
+            -d "$PAYLOAD" | jq -r '.commit.sha // .message'
