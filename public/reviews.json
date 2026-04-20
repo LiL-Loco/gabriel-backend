@@ -1,15 +1,25 @@
 {
   "place": "Gabriel Feine Uhren & Juwelen",
   "rating": 4.9,
-  "total": 97,
+  "total": 98,
   "reviews": [
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25Zd1kwMWFiRTlhVWpGeE1uRkhlazQ1Y0hGaU4wRRAB",
+      "author": "Manfredo Ruffinengo",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI_Vg74hju9v4zeUzDdG6FMJinf983vuBr0sL-W5WviDjgmpg=s120-c-rp-mo-br100",
+      "guide": true,
+      "rating": 5,
+      "date": "vor 1 Tag",
+      "iso_date": "2026-04-18T12:13:36Z",
+      "text": "Ausgezeichneter Service, sehr freundliche und zuvorkommende Beratung und faire Preise. Kann man nur empfehlen"
+    },
     {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT25oR09GSjRRbEppVDNCQmRXVnJhSEU0UTFSVGFVRRAB",
       "author": "Ivana Rastegorac",
-      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJamU9FM_C8FfABtAUAP4kGYcH7KvF_FLMS4Rn7f2WStMRYXg=s120-c-rp-mo-ba12-br100",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJamU9FM_C8FfABtAUAP4kGYcH7KvF_FLMS4Rn7f2WStMRYXg=s120-c-rp-mo-ba2-br100",
       "guide": true,
       "rating": 5,
-      "date": "vor 3 Tagen",
+      "date": "vor einer Woche",
       "iso_date": "2026-04-09T09:32:16Z",
       "text": "Ich habe meine Uhr dort vor Jahren gekauft, dennoch kann ich bis heute den Service von Gabriel in Anspruch nehmen. Egal mit welchem Anliegen ich komme,  ich werde immer herzlich empfangen und es wird sich gut um mich und meine Uhr gekümmert. Ich bin wirklich begeistert von der freundlichkeit und kompetenz der Mitarbeiter. Ich kann „Gabriel“ uneingeschränkt empfehlen!"
     },
@@ -19,7 +29,7 @@
       "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLOBL9YZtZQoXuIRjKrEeOgR_UotZ_BHCo7WpQ_pidfrfqLwg=s120-c-rp-mo-br100",
       "guide": true,
       "rating": 5,
-      "date": "vor 3 Wochen",
+      "date": "vor einem Monat",
       "iso_date": "2026-03-17T17:33:37Z",
       "text": "Freundliche und nette Atmosphäre, kompetente Beratung mit fairen Preisvorstellungen, sehr zu empfehlen"
     },
@@ -36,7 +46,7 @@
     {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSE5WRjRUMWRNVVRodVUyOVZZMjFOU2s1ME5uYxAB",
       "author": "A D",
-      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIXanf47ciXGK56-wjiYOY2-Cx5JB5z2vt_ALg5GBEpC8lqhQ=s120-c-rp-mo-ba12-br100",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIXanf47ciXGK56-wjiYOY2-Cx5JB5z2vt_ALg5GBEpC8lqhQ=s120-c-rp-mo-ba3-br100",
       "guide": true,
       "rating": 5,
       "date": "vor einem Monat",
@@ -72,17 +82,7 @@
       "date": "vor 2 Monaten",
       "iso_date": "2026-01-25T12:10:32Z",
       "text": "Habe vor und nach dem Kauf nur beste Erfahrungen sammeln können. Uhr wie beschrieben. Sehr netter Kontakt mit dem Verkäufer"
-    },
-    {
-      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMmJFWlZabHA0ZWtkeGVFMXZSbE15VkdsR1dtYxAB",
-      "author": "J. H.",
-      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJk2r0qBATGbM722VNjvcCTVpXMaInMRBwZTfC2fGruhT9-DQ=s120-c-rp-mo-br100",
-      "guide": true,
-      "rating": 5,
-      "date": "vor 2 Monaten",
-      "iso_date": "2026-01-22T15:03:09Z",
-      "text": "Sehr freundliches Team und seriöse Beratung. Sehr zu empfehlen und gerne wieder!"
     }
   ],
-  "synced_at": "2026-04-13T06:14:33.900Z"
+  "synced_at": "2026-04-20T06:14:45.579Z"
 }
