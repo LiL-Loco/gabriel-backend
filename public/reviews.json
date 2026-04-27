@@ -1,25 +1,35 @@
 {
   "place": "Gabriel Feine Uhren & Juwelen",
-  "rating": 4.9,
-  "total": 98,
+  "rating": 4.8,
+  "total": 99,
   "reviews": [
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT20xbU56RjVRV3R4WkZrd09HTkdRWGxGYUZOV2IxRRAB",
+      "author": "W. Pawlowskiy",
+      "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjW1YH7TRc-WyX7b74mWv8X_CKLyLPBsgEJhvhLSYVXnmhioHvo=s120-c-rp-mo-br100",
+      "guide": true,
+      "rating": 1,
+      "date": "vor 17 Stunden",
+      "iso_date": "2026-04-26T12:47:55Z",
+      "text": "Die Erfahrung mit diesem Uhrenhändler war leider sehr enttäuschend.\nBei meiner Anfrage zu einer Uhr im Wert von mehreren zehntausend Euro – nahezu im sechsstelligen Bereich – hätte ich ein deutlich höheres Maß an Kompetenz und Transparenz erwartet. Stattdessen wirkte der Händler unsicher und konnte grundlegende Fragen nicht zufriedenstellend beantworten.\n\nBesonders kritisch ist, dass kein nachvollziehbarer Nachweis darüber erbracht werden konnte, ob die Uhr tatsächlich von Rolex überprüft wurde. Ebenso fehlten verlässliche Informationen dazu, ob alle verbauten Teile original sind und auch wirklich zusammengehören. Statt entsprechender Belege wurde lediglich behauptet, „es passe alles“, ohne dies nachweisen zu können. Gerade in diesem Preissegment ist das ein absolutes Muss.\n\nInsgesamt hinterlässt dies keinen vertrauenswürdigen Eindruck. Wer in dieser Preisklasse kauft, sollte auf lückenlose Dokumentation und fachkundige Beratung bestehen – beides war hier leider nicht gegeben. Ich würde daher vom Kauf bei diesem Händler abraten."
+    },
     {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT25Zd1kwMWFiRTlhVWpGeE1uRkhlazQ1Y0hGaU4wRRAB",
       "author": "Manfredo Ruffinengo",
       "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI_Vg74hju9v4zeUzDdG6FMJinf983vuBr0sL-W5WviDjgmpg=s120-c-rp-mo-br100",
       "guide": true,
       "rating": 5,
-      "date": "vor 1 Tag",
+      "date": "vor einer Woche",
       "iso_date": "2026-04-18T12:13:36Z",
       "text": "Ausgezeichneter Service, sehr freundliche und zuvorkommende Beratung und faire Preise. Kann man nur empfehlen"
     },
     {
       "id": "Ci9DQUlRQUNvZENodHljRjlvT25oR09GSjRRbEppVDNCQmRXVnJhSEU0UTFSVGFVRRAB",
-      "author": "Ivana Rastegorac",
+      "author": "Ivana",
       "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJamU9FM_C8FfABtAUAP4kGYcH7KvF_FLMS4Rn7f2WStMRYXg=s120-c-rp-mo-ba2-br100",
       "guide": true,
       "rating": 5,
-      "date": "vor einer Woche",
+      "date": "vor 2 Wochen",
       "iso_date": "2026-04-09T09:32:16Z",
       "text": "Ich habe meine Uhr dort vor Jahren gekauft, dennoch kann ich bis heute den Service von Gabriel in Anspruch nehmen. Egal mit welchem Anliegen ich komme,  ich werde immer herzlich empfangen und es wird sich gut um mich und meine Uhr gekümmert. Ich bin wirklich begeistert von der freundlichkeit und kompetenz der Mitarbeiter. Ich kann „Gabriel“ uneingeschränkt empfehlen!"
     },
@@ -72,17 +82,7 @@
       "date": "vor 2 Monaten",
       "iso_date": "2026-02-08T01:08:53Z",
       "text": "Die Besonderheit von Gabriel lässt sich kaum in Worte fassen. Ein Geschäft von höchster Qualität, geprägt von wunderbaren Menschen.\n\nVom ersten Augenblick an vereinen sich herzlicher Empfang, erstklassige Beratung, exzellenter Service und eine erlesene Uhren- und Schmuckauswahl auf höchstem Niveau.\nEine Qualität, die Maßstäbe setzt.\n\nWenn Generationen bei einem Geschäft kaufen, welches seit Generationen existiert, braucht man nichts mehr zu sagen, außer: Vielen Dank!"
-    },
-    {
-      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMGNuSlRURjlWZVdORWF6RjVPRzU1U21OT1lsRRAB",
-      "author": "Michael Plabst",
-      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJN_suhJsGz0JUoWZM_zIgu253PsfDvPy2ffchFFyFcKn8TqA=s120-c-rp-mo-br100",
-      "guide": true,
-      "rating": 5,
-      "date": "vor 2 Monaten",
-      "iso_date": "2026-01-25T12:10:32Z",
-      "text": "Habe vor und nach dem Kauf nur beste Erfahrungen sammeln können. Uhr wie beschrieben. Sehr netter Kontakt mit dem Verkäufer"
     }
   ],
-  "synced_at": "2026-04-20T06:14:45.579Z"
+  "synced_at": "2026-04-27T06:27:25.531Z"
 }
